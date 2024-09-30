@@ -23,6 +23,7 @@ Je me perfectionne en **Node.js** et j'explore les technologies full-stack moder
 ## 📫 Me contacter
 Vous pouvez me joindre pour des collaborations, des conseils ou simplement discuter de développement web :
 - **Email** : wwirrufr@gmail.com
+- **Discord** : wwirru.js
 
 ## 🚀 Statistiques GitHub
 ![Les stats GitHub de Mathieu](https://github-readme-stats.vercel.app/api?username=WWiRRu&show_icons=true&theme=radical)
