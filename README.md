@@ -13,6 +13,7 @@ Je suis un développeur web passionné avec une jeune mais solide expérience da
 ## 🔧 Outils et Frameworks
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) x ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) — Développer des applications web front-end performantes et réactives avec React et Vite.
 - ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) — Créer des interfaces modernes avec une approche utilitaire rapide et flexible.
+- ![Node.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) - Développer la partie back-end d'une application web / web mobile
 
 ## 📂 Projets vedettes
 - [**Sunlight Social Network**](https://github.com/WWiRRu/Sunlight-Social-Network) : Un réseau social en cours de développement, conçu avec **Node.js**, **React** et **Vite**. Ce projet met en œuvre une authentification sécurisée, une architecture RESTful, et une interface utilisateur fluide. Il permet aux utilisateurs de créer des comptes, publier du contenu, interagir avec d'autres utilisateurs, et bien plus encore. (⚠️ **Statut** : En développement actif)
