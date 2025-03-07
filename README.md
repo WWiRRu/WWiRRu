@@ -16,7 +16,7 @@ Je suis un développeur web passionné avec une jeune mais solide expérience da
 - ![Node.js](https://img.shields.io/badge/-Node-black?logo=nodedotjs&logoColor=green) - Développer la partie back-end d'une application web / web mobile
 
 ## 📂 Projets vedettes
-- [**Sunlight Social Network**](https://github.com/WWiRRu/Sunlight-Social-Network) : Un réseau social en cours de développement, conçu avec **Node.js**, **React** et **Vite**. Ce projet met en œuvre une authentification sécurisée, une architecture RESTful, et une interface utilisateur fluide. Il permet aux utilisateurs de créer des comptes, publier du contenu, interagir avec d'autres utilisateurs, et bien plus encore. (⚠️ **Statut** : En développement actif)
+- [**FairyBot**](https://github.com/WWiRRu/FairyBot) : Un Bot Discord fait avec Oceanic.js ayant pour objectif de devenir certifié, ce repository est actuellement privé. (⚠️ **Statut** : En développement actif)
 
 ## 🌱 Ce que j'apprends actuellement
 Je me perfectionne en **Node.js** et j'explore les technologies full-stack modernes pour améliorer mes compétences en développement web complet. En particulier, je travaille sur l'optimisation de la performance côté serveur avec **Node.js** et l'intégration de **React** avec des solutions de build rapide comme **Vite**.
