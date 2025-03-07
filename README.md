@@ -12,6 +12,7 @@ Je suis un développeur web passionné avec une jeune mais solide expérience da
 
 ## 🔧 Outils et Frameworks
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) x ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) — Développer des applications web front-end performantes et réactives avec React et Vite.
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) x ![Nextjs](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) — Développer des applications web front-end performantes et réactives avec React et Next en SSR (Server Side Rendering).
 - ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) — Créer des interfaces modernes avec une approche utilitaire rapide et flexible.
 - ![Node.js](https://img.shields.io/badge/-Node-black?logo=nodedotjs&logoColor=green) - Développer la partie back-end d'une application web / web mobile
 
